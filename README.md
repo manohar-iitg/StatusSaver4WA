@@ -12,7 +12,7 @@ This is a Kotlin based mobile application which can be used to save the images a
 ## Features
 * Has a home page and a settings page.
 * Uses the .Statuses hidden folder from Whatsapp Media to obtain the statuses.
-* Shows the permissions page at the first installation of the app which on click directs to the .Status folder allowing seamless permission.
+* Shows the permissions page at the first installation of the app which on click directs to the .Statuses folder allowing seamless permission.
 * Has the ability to recognize the android version and check the path for status accordingly (The paths were different prior to Android 11.)
 * Has separate tabs for photos and videos.
 * The videos player uses exoplayer to preview the video and download it.
